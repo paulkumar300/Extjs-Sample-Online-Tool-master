@@ -1,0 +1,32 @@
+{
+   "results":[
+      {
+         "name":"Amazon.com, Inc.",
+         "status":"Pending Approval",
+         "information":"Amazon.com does not hit on all cylinders (remember that phone?), but it hits on enough to make it one of the world most effective companies. What began as Earth biggest bookstore has become Earth biggest everything store. While the website still offers millions of books, movies, games, and music, and of other items (sometimes ordered and delivered the same day), the company has become much more. It is the dominant cloud services provider, an influential entertainment company through its video operations (it produced 2017 Oscar-nominated Manchester-by-the-Sea), a force to be reckoned with in grocery with its acquisition of Whole Foods, and a leader in digital personal assistant devices with Alexa and its Echo product line.<p><b>Operations</b><br/>Amazon.com organizes reporting of its operations into three segments: North America, about 60% of revenue, International, about a third of revenue, and Amazon Web Services (AWS), about 10%.<br/>The company also tracks operations by grouping them into similar categories. Through that lens Amazon’s retail operations, its own and on behalf of third-party sellers, generates about 85% of its revenue. Its own retail sales, about two-thirds of revenue, include product sales and digital media content. Third-party services, about 20% of revenue, include commissions, related fulfillment and shipping fees, and other services.<br/>Amazon Web Services, about 10% of revenue, includes computer, storage, database, and other service offerings for a range of customers from start-ups to big companies to government agencies. Clients include Netflix, airbnb, and Pinterest.</p>",
+         "sales":200,
+         "salesChange":1.2
+      },
+      {
+         "name":"Apple Inc.",
+         "status":"Researching",
+         "information":"Ask Siri to name the most successful company in the world and it might respond: Apple. And it's not just out of familial pride. In terms of profit, revenue, market capitalization, and consumer cachet, it certainly ranks right up there. The iPhone, in its 10th year and eighth and ninth generations, has been the company's golden goose, generating tens of billions in revenue and profit. In addition to the iPhone, other familiar Apple products and services include Mac computers and iPad tablets, as well as iTunes, the App store, and Apple Music. Primarily a consumer-oriented company, Apple has inked several alliances with Accenture, General Electric, and IBM to deepen its penetration of the enterprise market. About 60% of revenue comes from outside the Americas.<p><b>Operations</b><br/>Apple's iPhone, accounts for more than 60% of sales, while its other hardware products, the iPad line and the Mac desktop and portable computers, account for about 10% each. Services, which includes the App Store, iCloud, Apple Music, and Apple Pay mobile payment, is the second biggest revenue producer, supplying about 15% of revenue. Products grouped under the Other segments make up the remaining sales.<br/>Apple's hardware products are tightly integrated with the company's software. The company's operating systems are iOS for mobile devices, MacOS for computers, Apple WatchOS for the watch, and tvOS for Apple TV. The company generally releases generational updates of its operating systems once a year.<br/>The company makes some of its products at facilities in Ireland and the US, but most manufacturing is handled by third party contractors, such as Hon Hai Precision Industry, also known as FoxConn, operating in Asia.</p>",
+         "sales":300,
+         "salesChange":1.2
+      },
+      {
+         "name":"Oracle Corporation",
+         "status":"Declined",
+         "information":"Oracle predicts the future of computing is in the cloud. A leader in enterprise software, Oracle provides hardware and services to help companies improve their processes. Best known for its focus on databases (its RMDBS and MySQL are popular database management programs), Oracle also offers software for enterprise resource planning, data management, collaboration, application development, customer relationship management, and supply chain management. In recent years, the company has aggressively expanded through acquisitions. More than half its revenue comes from international customers.<p><b>Operations</b><br/>Oracle's software businesses generate 80% of its sales.<br/>The company traditionally sold on-premise software, applications that were loaded onto customers' computers at their offices. The company's on-premise software brands are Siebel, PeopleSoft and JD Edwards, and the company's Oracle E-Business Suite.<br/>Oracle is moving its products to cloud computing environments, where customers can access programs from multiple locations and devices. The company's cloud applications are Oracle Human Capital Management (HCM) Cloud, Oracle Enterprise Resource Planning (ERP) Cloud, Oracle Customer Experience (CX) Cloud, Oracle Supply Chain Management (SCM) Cloud, Oracle Cloud Industry Solutions, and Oracle Data Cloud.<br/>Oracle also offers services that help customers operate their businesses from a cloud environment with software-as-a-service, platform-as-a-service, and infrastructure-as-a-service. Those businesses account for about an eighth of Oracle's revenue.<br/>The other 20% of Oracle's sales come from its hardware business, which includes computers and related software and services, and its consulting services business.<br/>The company's manufacturing operations are devoted to its Oracle Engineered Systems and some of its enterprise and data center servers and storage products. It relies on third-party manufacturing partners to make other hardware.</p>",
+         "sales":100,
+         "salesChange":1.2
+      },
+      {
+         "name":"Flipkart Inc.",
+         "status":"Reviewing",
+         "information":"Flipkart is an Indian company serving in the electronic commerce sector and headquartered in Bengaluru, India. It was founded in October 2007 by Sachin Bansal and Binny Bansal (no relation). Flipkart has launched its own product range under the name 'DigiFlip' with products including tablets, USB flash drives, and laptop bags. As of April 2018, the company is valued at $20 billion.",
+         "sales":500,
+         "salesChange":5.0
+      }
+   ]
+}
